@@ -1,31 +1,27 @@
 # VSRE
-[all.pdf](https://github.com/user-attachments/files/18146765/all.pdf)
+![vsre](https://github.com/user-attachments/assets/bc065667-c97c-4691-aae7-586c4decc42d)
+
 
 # Expand VSR Benchmark for VLLM to Expertize in Spatial Rules
 
-**Paper Title**: *"Your Paper Title Here"*  
-**Authors**: `Author Names List`  
-**Paper Link**: [arXiv / Conference Link / DOI](#)  
-**Project Description**:  
-This repository provides the official implementation and datasets for the paper *"Expand VSR Benchmark for VLLM to Expertize in Spatial Rules"*.   
+## News
+- Our work was accepted by AAAI25
+
+
 
 ---
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Appendix Material]
+  
 
 
 ---
 
 ## Introduction
 
-Provide a brief overview of the project and the key contributions of the paper:
 
-- **What problem does this project solve?**  
-- **How is it different from previous work?**  
-- **What are the main innovations or results?**  
 
 ---
 
