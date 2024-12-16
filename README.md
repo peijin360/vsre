@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#Project Structure)
+
 
 ---
 
@@ -23,17 +23,4 @@
 
 ---
 
-## Project Structure
 
-The repository is organized as follows:
-
-```plaintext
-├── data/                   # Dataset files
-├── models/                 # Pretrained or saved models
-├── src/                    # Source code
-│   ├── train.py            # Training script
-│   ├── evaluate.py         # Evaluation script
-│   └── utils/              # Utility functions
-├── results/                # Experiment results
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
