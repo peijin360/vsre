@@ -1,29 +1,21 @@
-# vsre
+# VSRE
+[all.pdf](https://github.com/user-attachments/files/18146765/all.pdf)
 
-# Project Title (e.g., **XYZ: A Novel Deep Learning Framework for Text Summarization**)
+# Expand VSR Benchmark for VLLM to Expertize in Spatial Rules
 
 **Paper Title**: *"Your Paper Title Here"*  
 **Authors**: `Author Names List`  
 **Paper Link**: [arXiv / Conference Link / DOI](#)  
 **Project Description**:  
-This repository provides the official implementation and datasets for the paper *"Your Paper Title"*. The proposed method introduces `a brief description of the method/purpose`.  
+This repository provides the official implementation and datasets for the paper *"Expand VSR Benchmark for VLLM to Expertize in Spatial Rules"*.   
 
 ---
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Usage](#usage)
-- [Results](#results)
-- [Pretrained Models](#pretrained-models)
-- [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Appendix Material]
+
 
 ---
 
