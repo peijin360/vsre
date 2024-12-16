@@ -5,7 +5,7 @@
 
 
 ## News
-- Our work was accepted by AAAI25
+- 
 
 
 
@@ -14,13 +14,11 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-  
-
+- [Project Structure](#Project Structure)
 
 ---
 
 ## Introduction
-
 
 
 ---
