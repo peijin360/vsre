@@ -7,10 +7,7 @@ There is still a lack of sufficient quantity and quality evaluation and optimiza
 To handle this, we first diagnosed current VLLMs with the VSR dataset and proposed a unified test set.
 We found current VLLMs to exhibit a contradiction of over-sensitivity to language instructions and under-sensitivity to visual positional information.
 By expanding the original benchmark from two aspects of tunning data and model structure, we mitigated this phenomenon. 
-To our knowledge, we expanded spatially positioned image data controllably using diffusion models for the first time and integrated original visual encoding(CLIP) with other 3 powerful visual encoders(SigLIP, SAM and DINO).
-After conducting combination experiments on scaling data and models, we obtained a VLLM VSR Expert(VSRE) that not only generalizes better to different instructions but also accurately distinguishes differences in visual positional information. 
-VSRE achieved over a 27\% increase in accuracy on the VSR test set. 
-It becomes a performant VLLM on the position reasoning of both the VSR dataset and relevant subsets of other evaluation benchmarks. 
+
 
 
 ## News
