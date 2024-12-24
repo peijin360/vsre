@@ -1,12 +1,12 @@
 # VSRE：Expand VSR Benchmark for VLLM to Expertize in Spatial Rules
   <p align="center">  
-    <a href="https://arxiv.org/abs/2205.00363">arxiv</a>
+    <a href="https://arxiv.org/abs/">arxiv</a>
     ·
-    <a href="https://github.com/cambridgeltl/visual-spatial-reasoning/tree/master/data">dataset</a>
+    <a href="">dataset</a>
     ·
-    <a href="https://paperswithcode.com/sota/visual-reasoning-on-vsr">benchmark</a>
+    <a href="">ckp</a>
   </p>
-![vsre](https://github.com/user-attachments/assets/bc065667-c97c-4691-aae7-586c4decc42d)
+
 
 
 
