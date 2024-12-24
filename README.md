@@ -14,6 +14,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Appendix material][appendix.pdf](https://github.com/user-attachments/files/18237160/appendix.pdf)
+
 
 
 ---
