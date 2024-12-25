@@ -14,7 +14,9 @@
 - 2024.12.11：Our work VSRE was accepted on AAAI 2025.
 - 2024.12.23：We upload the paper and appendix material.
 
-## todo list
+## Todo List
+- upload generated image
+- provide statistic table of object detection on generated images 
 
 ---
 
