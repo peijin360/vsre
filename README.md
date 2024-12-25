@@ -2,6 +2,8 @@
   <p align="center">  
     <a href="https://arxiv.org/pdf/2412.18224">arxiv</a>
     ·
+    <a href="https://github.com/user-attachments/files/18237160/appendix.pdf">appendix</a>
+    ·
     <a href="">dataset</a>
     ·
     <a href="">ckp</a>
