@@ -1,8 +1,7 @@
 # VSRE：Expand VSR Benchmark for VLLM to Expertize in Spatial Rules
   <p align="center">  
-    ![{22B684B6-C773-4BAF-B354-5FDF916E61A4}](https://github.com/user-attachments/assets/b683ee1f-e988-4909-85f5-5783fb033032)
-
-    <a href="[https://arxiv.org/abs/](https://arxiv.org/pdf/2412.18224)">arxiv</a>
+    
+    <a href="[https://arxiv.org/abs/](https://arxiv.org/pdf/2412.18224)](https://arxiv.org/pdf/2412.18224)">arxiv</a>
     ·
     <a href="">dataset</a>
     ·
