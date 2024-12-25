@@ -10,14 +10,9 @@
   </p>
 
 
-
-
-## Associated Paper
-This repository contains the code used for VSRE Paper. 
-
 ## News
-- 
-
+- 2024.12.11：Our work VSRE was accepted on AAAI 2025.
+- 2024.12.23：We upload the paper and appendix material.
 
 
 ---
