@@ -9,7 +9,8 @@
     <a href="">ckps</a>
   </p>
 
-[all.pdf](https://github.com/user-attachments/files/18245013/all.pdf)
+![all_00](https://github.com/user-attachments/assets/81c54bb7-a2d7-47b9-a06e-6335157eba8b)
+
 
 
 
