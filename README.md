@@ -4,7 +4,7 @@
     ·
     <a href="https://github.com/user-attachments/files/18237160/appendix.pdf">Appendix Material</a>
     ·
-    <a href="">Slides</a>
+    <a href="https://github.com/peijin360/vsre/blob/main/Expand%20VSR%20Benchmark%20for%20VLLM%20to%20Expertize%20in%20Spatial%20Rules.pdf">Slides</a>
     ·
     <a href="">Dataset</a>
     ·
