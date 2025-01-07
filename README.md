@@ -4,6 +4,8 @@
     ·
     <a href="https://github.com/user-attachments/files/18237160/appendix.pdf">Appendix Material</a>
     ·
+    <a href="">Slides</a>
+    ·
     <a href="">Dataset</a>
     ·
     <a href="">ckps</a>
